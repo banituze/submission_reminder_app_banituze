@@ -3,7 +3,6 @@
 A Linux-based application that helps track and remind students about pending assignment submissions.
 
 ## Features
-- Automated environment setup
 - Student submission tracking
 - Assignment management
 - Flexible configuration
@@ -55,7 +54,7 @@ Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
 Mendeleev, Vi, not submitted
-Bohr, Shell Navigatiom, submitted
+Bohr, Shell Navigation, submitted
 Einstein, Shell Permissions, not submitted
 Galilei, Git, submitted
 Newton, Shell Navigation, not submitted
@@ -68,21 +67,19 @@ submission_reminder_<name>/
 ├── app/
 │   └── reminder.sh             # Main reminder logic
 ├── assets/
-│   └── submissions.txt       # Student submission records
+│   └── submissions.txt         # Student submission records
 ├── config/
 │   └── config.env              # Application configuration
 ├── modules/
-│   └── functions.sh           # Helper functions
+│   └── functions.sh            # Helper functions
 └── startup.sh                  # Application startup script
 ```
 
 ## Troubleshooting
 - Ensure all `.sh` files have execute permissions
 - Check that all required directories exist
-- Verify the submissions.txt file format is correct
 
 ## Author
 ```
 Winebald 
 ```
-
