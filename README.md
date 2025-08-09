@@ -81,5 +81,5 @@ submission_reminder_<name>/
 
 ## Author
 ```
-Winebald 
+Winebald Banituze 
 ```
