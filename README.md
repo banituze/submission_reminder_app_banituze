@@ -15,17 +15,17 @@ A Linux-based application that helps track and remind students about pending ass
 ## Installation & Setup
 
 1. **Clone the repository**
-   ```
-   git clone https://github.com/banituze/submission_reminder_app_banituze.git
-   cd submission_reminder_app_banituze
-   ```
+```
+git clone https://github.com/banituze/submission_reminder_app_banituze.git
+cd submission_reminder_app_banituze
+```
 
 2. **Run the environment setup**
-   ```
-   bash create_environment.sh
-   ```
-   - Enter your name when prompted
-   - This creates the complete application structure
+```
+bash create_environment.sh
+```
+- Enter your name when prompted
+- This creates the complete application structure
 
 ## Usage
 
@@ -83,3 +83,4 @@ submission_reminder_<name>/
 ```
 Winebald Banituze 
 ```
+
