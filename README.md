@@ -54,11 +54,11 @@ Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
 Mendeleev, Vi, not submitted
-Bohr, Shell Navigation, submitted
+Bohr, Shell Navigatiom, submitted
 Einstein, Shell Permissions, not submitted
 Galilei, Git, submitted
-Newton, Shell Navigation, not submitted
-Faraday, Vi, submitted
+Newton, Shell Navigation, submitted
+Faraday, Vi, not submitted
 ```
 
 ## File Structure
